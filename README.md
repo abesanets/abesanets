@@ -1,7 +1,5 @@
 ![Banner](./github-header-banner.png)
 
-# 👋 Hey, I'm Alex Besanets  
-
 💻 Full-Stack Developer | 🤖 Bot Maker | 🔒 Cybersecurity Enthusiast  
 
 I build stuff for the web, mobile, and automation. Passionate about clean code, scalable solutions, and exploring new technologies.  
