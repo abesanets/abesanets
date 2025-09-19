@@ -1,6 +1,5 @@
-![Banner](./github-header-banner.png)
+![Banner](./github-header-banner-pro.png)
 
-💻 Full-Stack Developer | 🤖 Bot Maker | 🔒 Cybersecurity Enthusiast  
 
 I build stuff for the web, mobile, and automation. Passionate about clean, scalable code and new tech.  
 Always pushing further — mastering full-stack dev, experimenting, shipping projects.
