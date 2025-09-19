@@ -1,4 +1,4 @@
-![Banner](./github-header-banner-pro.png)
+![Banner](./github-header-banner.png)
 
 
 I build stuff for the web, mobile, and automation. Passionate about clean, scalable code and new tech.  
