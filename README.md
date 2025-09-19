@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Alex%20Besanets&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35)
+
 # 👋 Hey, I'm Alex Besanets  
 
 💻 Full-Stack Developer | 🤖 Bot Maker | 🔒 Cybersecurity Enthusiast  
@@ -7,7 +9,7 @@ Always learning, always growing — mastering the craft of development day by da
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 ### 🚀 Languages & Frameworks  
 <p align="left">
@@ -22,7 +24,7 @@ Always learning, always growing — mastering the craft of development day by da
 ---
 
 ## 📊 GitHub Stats  
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abesanets&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abesanets&layout=compact&theme=tokyonight" height="180em"/>
 </p>
@@ -48,3 +50,7 @@ Always learning, always growing — mastering the craft of development day by da
 
 ## ⚡ Quote I Live By  
 > *“The best way to predict the future is to create it.”*  
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/abesanets/abesanets/output/github-contribution-grid-snake.svg)
