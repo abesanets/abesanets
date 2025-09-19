@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png")
+![Banner](./github-header-banner.png")
 
 # 👋 Hey, I'm Alex Besanets  
 
