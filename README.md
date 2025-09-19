@@ -1,9 +1,11 @@
 ![Banner](./github-header-banner.png)
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Alex%20Besanets&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40)
+
 💻 Full-Stack Developer | 🤖 Bot Maker | 🔒 Cybersecurity Enthusiast  
 
-I build stuff for the web, mobile, and automation. Passionate about clean code, scalable solutions, and exploring new technologies.  
-Always learning, always growing — mastering the craft of development day by day.  
+I build stuff for the web, mobile, and automation. Passionate about clean, scalable code and new tech.  
+Always pushing further — mastering full-stack dev, experimenting, shipping projects.
 
 ---
 
@@ -29,26 +31,41 @@ Always learning, always growing — mastering the craft of development day by da
 
 ---
 
+## 🐍 Contribution Graph Snake  
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abesanets/abesanets/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abesanets/abesanets/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/abesanets/abesanets/blob/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 📫 Connect with me  
+[![Telegram](https://img.shields.io/badge/Telegram-%40abesanets-blue?logo=telegram)](https://t.me/besanets)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abesanets-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/abesanets)  
+[![Email](https://img.shields.io/badge/Email-youremail%40example.com-red?logo=gmail)](mailto:abesanets@gmail.com)
+
+---
+
 ## 🚀 What I Do  
-- Build **full-stack applications**  
-- Create **automation scripts & bots**  
-- Work with **APIs, servers, and databases**  
-- Explore **cybersecurity & ethical hacking**  
-- Learn, experiment, and ship projects  
+- Build full-stack applications  
+- Create automation scripts & bots  
+- Work with APIs, servers, and databases  
+- Explore cybersecurity & ethical hacking  
+- Continually learn & deliver polished projects  
 
 ---
 
 ## 🎯 Goals  
-- Master full-stack development  
-- Launch large-scale projects  
-- Keep improving in cybersecurity & devops  
-- Build something that makes an impact 🌍  
+- Master full-stack dev  
+- Launch large-scale impactful projects  
+- Develop strong cybersecurity & devops skills  
+- Build something that changes lives 🌍  
 
 ---
 
-## ⚡ Quote I Live By  
+## ⚡ Quote  
 > *“The best way to predict the future is to create it.”*  
-
----
-
-![Snake animation](https://raw.githubusercontent.com/abesanets/abesanets/output/github-contribution-grid-snake.svg)
