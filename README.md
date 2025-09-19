@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Alex%20Besanets&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35)
+![Header](./github-header-banner.png")
 
 # 👋 Hey, I'm Alex Besanets  
 
