@@ -20,7 +20,7 @@ Always pushing further — mastering full-stack dev, experimenting, shipping pro
 
 ### 🦾 AI tools
 
-<p align="center">
+<p align="left">
   <!-- AI Tools -->
   <img src="https://cdn.simpleicons.org/openai/412991" width="50" alt="ChatGPT"/>
   <img src="https://cdn.simpleicons.org/googlegemini/8E75E6" width="50" alt="Gemini"/>
