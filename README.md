@@ -18,26 +18,6 @@ Always pushing further — mastering full-stack dev, experimenting, shipping pro
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,docker,linux,vscode" />
 </p>
 
-### 🦾 AI tools
-
-<p align="left">
-  <!-- AI Tools -->
-  <img src="https://cdn.simpleicons.org/openai/412991" width="50" alt="ChatGPT"/>
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75E6" width="50" alt="Gemini"/>
-  <img src="https://avatars.githubusercontent.com/u/17027061?s=200&v=4" width="50" alt="Cursor IDE"/> 
-  <img src="https://cdn.simpleicons.org/github/000000" width="50" alt="GitHub Copilot"/>
-  <img src="https://cdn.simpleicons.org/deepnote/3793EF" width="50" alt="DeepSeek"/>
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abesanets&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abesanets&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
-
 ---
 
 ## 📫 Connect with me  
