@@ -10,12 +10,12 @@ Always pushing further — mastering full-stack dev, experimenting, shipping pro
 
 ### 🚀 Languages & Frameworks  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,react,nodejs,express,html,css,tailwind,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,kotlin,react,nodejs,express,html,css,php,androidstudio" />
 </p>
 
 ### ⚡ Databases & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,docker,photoshop,linux,vscode,github,windows,ai" />
 </p>
 
 ---
